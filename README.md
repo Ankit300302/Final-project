@@ -24,8 +24,8 @@ This API is used to find the real time job from different jobs platform like lin
  Process to run the APP:
  1) install expo-router
  2) install axios and install whatever extra components is asked for your system
- 3) Put the API keys in jobs/app/search/[id].js
- 4) Put the API keys again in jobs/hook/useFetch.js
+ 3) Put the API keys in app/search/[id].js
+ 4) Put the API keys again in hook/useFetch.js
  5) Save all the changes and type the compand "npm start" to run this app
 
  Design Inspiration from youtube videos 
