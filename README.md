@@ -30,4 +30,4 @@ This API is used to find the real time job from different jobs platform like lin
 
  Design Inspiration from youtube videos 
  
- App screenshots and testing video of the app is attached in about app file
+ App screenshots and testing video of the app is attached in about the app file
